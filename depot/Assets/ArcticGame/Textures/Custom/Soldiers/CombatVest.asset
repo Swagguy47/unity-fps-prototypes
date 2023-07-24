@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fa726336d2d5334883f5d7d11d4e03a, type: 3}
+  m_Name: CombatVest
+  m_EditorClassIdentifier: 
+  Name: CombatVest_Atlas
+  R_Metallic: {fileID: 2800000, guid: 2810be3919314344aa7a7391538a79b0, type: 3}
+  G_MixedAO: {fileID: 2800000, guid: ce961a73ba9e279459b4182091010d3e, type: 3}
+  B_Roughness: {fileID: 2800000, guid: 87ad767de85e15c429b6c64c0b4ad9d1, type: 3}
+  A_Height: {fileID: 2800000, guid: 32b11e84b2bffeb44950104ed8e5d652, type: 3}
+  Format: 1

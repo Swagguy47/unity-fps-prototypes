@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dce69c37feefa9469c5ed1fb34610c7, type: 3}
+  m_Name: TestSecondary
+  m_EditorClassIdentifier: 
+  Model: {fileID: 7571697019192693840, guid: d7c0273f0bad07c41a86393156ca145a, type: 3}
+  BarrelLength: 1
+  SwayIntensity: 1
+  WeaponAnimator: {fileID: 22100000, guid: 0a9ebcd31401e3d42ad53e074eba6378, type: 2}
+  Automatic: 0
+  AmmoClip: 10
+  AmmoSpare: 50
+  BurstAmount: 1
+  BurstRate: 1
+  FireRate: 0.2
+  Damage: 3
+  RecoilBloom: 1
+  RecoilSpring: 1
+  BulletDistance: 200
+  a_CurrentClip: 5
+  a_Extra: 15
+  i_FireRate: -0.0025563403

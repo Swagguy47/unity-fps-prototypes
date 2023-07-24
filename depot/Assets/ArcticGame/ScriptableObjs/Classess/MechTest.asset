@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 557a78730a888cb41afcaf8c0698c8e8, type: 3}
+  m_Name: MechTest
+  m_EditorClassIdentifier: 
+  ClassValue: -1
+  MoveSpeed: 10
+  SprintMult: 0.8
+  JumpHeight: 300
+  LeanAngle: 0
+  Primaries:
+  - {fileID: 11400000, guid: 5bc6408253fe4084388e808a805a6b0e, type: 2}
+  Secondaries:
+  - {fileID: 11400000, guid: 5bc6408253fe4084388e808a805a6b0e, type: 2}
+  HeadAP: 50
+  BodyAP: 100
+  LArmAP: 70
+  RArmAP: 70
+  LLegAP: 70
+  RLegAP: 70
+  TopGimbal: 1
+  IgnoreVehicles: 1
