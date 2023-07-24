@@ -8,6 +8,8 @@ A singleplayer story-driven game with lite survival mechanics. Set in a dystopia
 - Water buoyancy physics sim & performant variant
 - ChatGPT npcs
 - 'Drivable' canoe
+- Day/Night cycle with periodic & random rainfall
+- Item pickups
 - Inventory system
 - Crate / object storage system
 - Item shopping, selling, & currency
