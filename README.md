@@ -18,3 +18,6 @@ A singleplayer story-driven game with lite survival mechanics. Set in a dystopia
 - Custom editor workflow tools for atlasing Substance Painter textures & embedding textures into alpha channels
 - Extensive development menu & debugging features
 - Robust object interaction framework
+
+# -Additional notes-
+Long after the end of development, this project was later revisted for use as a prototyping platform for a completely unrelated game while another person was busy making changes to it's project. This explains the out-of-place low poly, sci-fi prototype items and test level.
