@@ -20,4 +20,6 @@ A singleplayer story-driven game with lite survival mechanics. Set in a dystopia
 - Robust object interaction framework
 
 # -Additional notes-
+CanoeGame was built ontop of the ArcticGame framework after it's cancellation, due to this you will notice a lot of leftover assets or similar functionality, especially within the `depot/Assets/OldAssets/` directory. I cannot ensure full compatibility with leftover content if spawned in game.
+
 Long after the end of development, this project was later revisted for use as a prototyping platform for a completely unrelated game while another person was busy making changes to it's project. This explains the out-of-place low poly, sci-fi prototype items and test level.
