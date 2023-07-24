@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fa726336d2d5334883f5d7d11d4e03a, type: 3}
+  m_Name: Backpack
+  m_EditorClassIdentifier: 
+  Name: BackpackTemp_Atlas
+  R_Metallic: {fileID: 2800000, guid: 89703b84462e1364fa09313ec1a32770, type: 3}
+  G_MixedAO: {fileID: 2800000, guid: 59bfe1a1a731be748b862ff2472bf527, type: 3}
+  B_Roughness: {fileID: 2800000, guid: 0d587fb4e7ca07942a68e62097053e75, type: 3}
+  A_Height: {fileID: 2800000, guid: e8775a5e49e57ea46a988e08227b8716, type: 3}
+  Format: 1

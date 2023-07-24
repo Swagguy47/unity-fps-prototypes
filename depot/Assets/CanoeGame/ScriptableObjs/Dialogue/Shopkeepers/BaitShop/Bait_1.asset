@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efbacaa11f871a74a8862f14bf87dd38, type: 3}
+  m_Name: Bait_1
+  m_EditorClassIdentifier: 
+  CharacterSpeech: Need help with anything?
+  SpeechTimeMult: 1
+  Response1: What's bait used for?
+  Tree1: {fileID: 11400000, guid: df55a57c1e885c941b9314d1b72ae684, type: 2}
+  Response2: Do you sell fishing rods?
+  Tree2: {fileID: 11400000, guid: 3d084c4684535ae4ca40f1d5e10be2bc, type: 2}
+  Response3: Can I return or resell bait?
+  Tree3: {fileID: 11400000, guid: e588f02b700461e4d9de667b1b32a6f2, type: 2}
+  Response4: -Leave-
+  Tree4: {fileID: 0}

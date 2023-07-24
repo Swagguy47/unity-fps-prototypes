@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efbacaa11f871a74a8862f14bf87dd38, type: 3}
+  m_Name: Market_1
+  m_EditorClassIdentifier: 
+  CharacterSpeech: Need help with anything?
+  SpeechTimeMult: 1
+  Response1: Are your fishing rods defective?
+  Tree1: {fileID: 11400000, guid: edc403afc7c945e488a5fd89877a58a0, type: 2}
+  AnimOverride1: {fileID: 0}
+  Response2: Do you sell nails?
+  Tree2: {fileID: 11400000, guid: 14046451e3ac2c8428499ae4f16c06bf, type: 2}
+  AnimOverride2: {fileID: 0}
+  Response3: Why can't I sell items?
+  Tree3: {fileID: 11400000, guid: 4e4a1de1adf5e5d4cb5dfa6b8dd6df57, type: 2}
+  AnimOverride3: {fileID: 0}
+  Response4: -Leave-
+  Tree4: {fileID: 0}
+  AnimOverride4: {fileID: 0}

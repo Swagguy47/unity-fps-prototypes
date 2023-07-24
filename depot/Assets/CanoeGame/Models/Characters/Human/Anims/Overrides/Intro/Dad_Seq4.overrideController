@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Dad_Seq4
+  m_Controller: {fileID: 9100000, guid: 834e47e3cf2a9854d8c8fa128d631f6a, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 0dc104adce1b6d849a42b29878b3661e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: be8b06029daa4474fb55b44f3252ecdb, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a74166246e646b749904ac30edb38a9d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d19b1832072d4c841be571f78f06d4eb, type: 2}

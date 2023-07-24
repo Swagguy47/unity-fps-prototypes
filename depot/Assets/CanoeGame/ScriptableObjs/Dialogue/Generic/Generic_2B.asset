@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efbacaa11f871a74a8862f14bf87dd38, type: 3}
+  m_Name: Generic_2B
+  m_EditorClassIdentifier: 
+  CharacterSpeech: I guess... Where to?
+  SpeechTimeMult: 0.75
+  Response1: Carpenter?
+  Tree1: {fileID: 11400000, guid: 49dea8eb22aca4046af3c685b57f2c41, type: 2}
+  AnimOverride1: {fileID: 22100000, guid: 620d39879fea7114f8503161d2836c92, type: 2}
+  Response2: Resturaunt?
+  Tree2: {fileID: 11400000, guid: 54a7841317fd3d04185e541d52a2445f, type: 2}
+  AnimOverride2: {fileID: 22100000, guid: 696244cef00bf444082e5ca59b3b2c0b, type: 2}
+  Response3: Market?
+  Tree3: {fileID: 11400000, guid: 1ce921ee12e95744f99a8bb09b77b925, type: 2}
+  AnimOverride3: {fileID: 22100000, guid: 620d39879fea7114f8503161d2836c92, type: 2}
+  Response4: Bait Shop?
+  Tree4: {fileID: 11400000, guid: afa382073798faf4e8b5a1a0674b9860, type: 2}
+  AnimOverride4: {fileID: 22100000, guid: 620d39879fea7114f8503161d2836c92, type: 2}

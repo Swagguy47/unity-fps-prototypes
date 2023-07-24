@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fa726336d2d5334883f5d7d11d4e03a, type: 3}
+  m_Name: FLP9_Grip
+  m_EditorClassIdentifier: 
+  Name: FLP9_Grip_Atlas
+  R_Metallic: {fileID: 2800000, guid: da8ea5e8d61b43e46b9ffa1eb1db004e, type: 3}
+  G_MixedAO: {fileID: 2800000, guid: b89d03e1337d44b43b0deaaa423b41cf, type: 3}
+  B_Roughness: {fileID: 2800000, guid: 0c926579a2ab37c418d17366346ba63f, type: 3}
+  A_Height: {fileID: 2800000, guid: 1e4cf4f02e11fdc4c8c6983b62117bf5, type: 3}
+  Format: 1

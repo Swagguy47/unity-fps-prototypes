@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dce69c37feefa9469c5ed1fb34610c7, type: 3}
+  m_Name: Fish_M_Cooked
+  m_EditorClassIdentifier: 
+  ParentClass: {fileID: 11400000}
+  TagName: Item_M_Fish_Cooked
+  Model: {fileID: 7571697019192693840, guid: f8d2b0b9d63f6764d9e57f5fb163ce8a, type: 3}
+  PickupModel: {fileID: 8216924124290968207, guid: 25287182e3178b8489f6a79231aa484b, type: 3}
+  FirstPersonOffset: {x: 0, y: -0.4, z: -0.1}
+  Icon: {fileID: 21300000, guid: fee39f7dd994b99459a7d3c88e19fd57, type: 3}
+  SwayIntensity: 2
+  WeaponAnimator: {fileID: 22100000, guid: 5370d43a09068f64384a68858b595f3b, type: 2}
+  UnarmedWhenEmpty: 1
+  InteractOnly: 1
+  AmmoClip: 2
+  AmmoSpare: 0
+  BurstAmount: 1
+  BurstRate: 1
+  FireRate: 1
+  Damage: 22.5
+  RecoilBloom: 1
+  RecoilSpring: 1
+  BulletDistance: 0
+  a_CurrentClip: -1
+  a_Extra: 0
+  i_FireRate: -0.007932457

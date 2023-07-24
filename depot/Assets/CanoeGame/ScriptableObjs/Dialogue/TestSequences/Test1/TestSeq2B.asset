@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efbacaa11f871a74a8862f14bf87dd38, type: 3}
+  m_Name: TestSeq2B
+  m_EditorClassIdentifier: 
+  CharacterSpeech: Sorry to bother, but maybe next time don't be so rude :,(
+  SpeechTimeMult: 0.85
+  Response1: I told you to shut up
+  Tree1: {fileID: 11400000, guid: 54b68e0ea585e6f43b93ab4171a6fd7d, type: 2}
+  Response2: Sorry...
+  Tree2: {fileID: 11400000, guid: e4b22fa7c0fa0ad45b07a187fb7dc30b, type: 2}
+  Response3: 
+  Tree3: {fileID: 0}
+  Response4: 
+  Tree4: {fileID: 0}

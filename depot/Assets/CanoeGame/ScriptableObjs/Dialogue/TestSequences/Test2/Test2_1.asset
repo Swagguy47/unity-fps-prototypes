@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efbacaa11f871a74a8862f14bf87dd38, type: 3}
+  m_Name: Test2_1
+  m_EditorClassIdentifier: 
+  CharacterSpeech: What's up dog?
+  SpeechTimeMult: 1
+  Response1: A hotdog resturaunt...
+  Tree1: {fileID: 11400000, guid: 6d188ad6f1520af4d8b10c7864413a4b, type: 2}
+  Response2: Nothin' much
+  Tree2: {fileID: 11400000, guid: 57db4962f52cb094cb3725bb7b5e808c, type: 2}
+  Response3: Idk, what is it?
+  Tree3: {fileID: 11400000, guid: 7f5684c4d1195db4b84208af141db2ea, type: 2}
+  Response4: -ignore this fool-
+  Tree4: {fileID: 0}

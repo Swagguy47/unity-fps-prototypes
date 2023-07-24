@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fa726336d2d5334883f5d7d11d4e03a, type: 3}
+  m_Name: FLP9_SightGlass
+  m_EditorClassIdentifier: 
+  Name: FLP9_SightGlass_Atlas
+  R_Metallic: {fileID: 2800000, guid: be2565895faced94d9eb428e31cce3d1, type: 3}
+  G_MixedAO: {fileID: 2800000, guid: 83288a824b94c5e4a86fb6971126d7a8, type: 3}
+  B_Roughness: {fileID: 2800000, guid: 638fefd7855cfb44f8741addaef502e4, type: 3}
+  A_Height: {fileID: 2800000, guid: 57f009d4c5ba35c43bae3d5445bddd83, type: 3}
+  Format: 1

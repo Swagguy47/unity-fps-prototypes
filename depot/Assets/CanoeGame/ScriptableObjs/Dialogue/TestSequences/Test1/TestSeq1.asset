@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efbacaa11f871a74a8862f14bf87dd38, type: 3}
+  m_Name: TestSeq1
+  m_EditorClassIdentifier: 
+  CharacterSpeech: Hello
+  SpeechTimeMult: 1
+  Response1: Hi
+  Tree1: {fileID: 11400000, guid: 2ef6b6d8ae07e364cb0242888cd0f54a, type: 2}
+  Response2: Shut up!
+  Tree2: {fileID: 11400000, guid: 4ee4592b9bb89aa488074e1aea9c4f07, type: 2}
+  Response3: -Ignore-
+  Tree3: {fileID: 0}
+  Response4: 
+  Tree4: {fileID: 0}

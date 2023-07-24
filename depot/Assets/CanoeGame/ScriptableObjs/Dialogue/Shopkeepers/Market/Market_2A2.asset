@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efbacaa11f871a74a8862f14bf87dd38, type: 3}
+  m_Name: Market_2A2
+  m_EditorClassIdentifier: 
+  CharacterSpeech: Yeah... Though I guess I do have to thank him for that decision.
+    Without it I wouldn't exist! In fact, this whole sector would still be barren,
+    you wouldn't have any of those fancy, <color=red>albiet scuffed and buggy</color>
+    mocap animations, and your dad wouldn't have escaped the concept art stage.
+  SpeechTimeMult: 1
+  Response1: O h . . .
+  Tree1: {fileID: 0}
+  AnimOverride1: {fileID: 0}
+  Response2: 
+  Tree2: {fileID: 0}
+  AnimOverride2: {fileID: 0}
+  Response3: 
+  Tree3: {fileID: 0}
+  AnimOverride3: {fileID: 0}
+  Response4: 
+  Tree4: {fileID: 0}
+  AnimOverride4: {fileID: 0}

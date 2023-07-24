@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efbacaa11f871a74a8862f14bf87dd38, type: 3}
+  m_Name: Generic_1
+  m_EditorClassIdentifier: 
+  CharacterSpeech: Oh. Hi.
+  SpeechTimeMult: 0.75
+  Response1: How's your day going?
+  Tree1: {fileID: 11400000, guid: 75bd5a61d7a8f0449b9188883d88d657, type: 2}
+  AnimOverride1: {fileID: 0}
+  Response2: Can you help me with directions?
+  Tree2: {fileID: 11400000, guid: 084883ee9f4e41345a3e0eca642aa86f, type: 2}
+  AnimOverride2: {fileID: 0}
+  Response3: Hello.
+  Tree3: {fileID: 11400000, guid: 9b8a9a6568590934086a4444bb31c12a, type: 2}
+  AnimOverride3: {fileID: 0}
+  Response4: I have a question...
+  Tree4: {fileID: 11400000, guid: 76693a01a4a548d4eab99efc8ba65157, type: 2}
+  AnimOverride4: {fileID: 22100000, guid: 661e389b64aca1a4182f20f47caac8a6, type: 2}
